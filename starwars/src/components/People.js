@@ -6,9 +6,7 @@ import styled from "styled-components";
 const Container = styled.div`
 display: flex;
 flew-flow: column wrap;
-width: 70rem;
-height: 70rem;
- border: 1px solid black;
+justify-content: center;
 `;
 
 export default function People(props) {
